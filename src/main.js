@@ -6,7 +6,7 @@ import axios from 'axios'
 
 //localhost api http://localhost:4040/
 
-axios.defaults.baseURL='http://localhost:4040/'
+axios.defaults.baseURL='https://hostel-management-api.onrender.com/'
 Vue.config.productionTip = false
 Vue.use(VueRouter);
 
